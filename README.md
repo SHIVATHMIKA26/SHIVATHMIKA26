@@ -1,180 +1,121 @@
 
+
+# 🚀 Premium GitHub README Template for SHIVATHMIKA26
+
+> Replace your existing README with this content and update repository links where needed.
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6A5ACD&text=Boddupally%20Shivathmika&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Boddupally%20Shivathmika&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Java%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;Machine+Learning+Enthusiast;Spring+Boot+%7C+React+%7C+AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Java+%7C+Spring+Boot+%7C+React;Machine+Learning+Engineer;Always+Learning+%F0%9F%9A%80"/>
 
 <p>
-<img src="https://img.shields.io/badge/B.Tech-CSE-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Hyderabad-7B68EE?style=for-the-badge"/>
-<a href="https://www.linkedin.com/in/boddupally-shivathmika-40a3382b9/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/SHIVATHMIKA26"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-</p>
-
+<a href="https://github.com/SHIVATHMIKA26"><img src="https://img.shields.io/badge/GitHub-SHIVATHMIKA26-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/boddupally-shivathmika-40a3382b9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <img src="https://komarev.com/ghpvc/?username=SHIVATHMIKA26&style=for-the-badge&color=7B68EE"/>
-<img src="https://img.shields.io/github/followers/SHIVATHMIKA26?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/SHIVATHMIKA26?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# About
+# 💫 About Me
 
-I am **Boddupally Shivathmika**, a Computer Science undergraduate passionate about building scalable software and AI-powered applications. My interests span **Java, Spring Boot, REST APIs, React, Machine Learning, Hibernate, and MySQL**. I enjoy designing software that combines clean engineering practices with practical AI solutions.
+Computer Science Engineering student passionate about **AI, Machine Learning, Java Full Stack Development, Spring Boot, REST APIs and scalable software engineering**.
 
-### Open To
+## 🔥 Current Focus
 
-- Software Engineering Internships
-- Java Backend Development
-- Full Stack Development
-- AI / Machine Learning Projects
-- Open Source Collaboration
+- AI-powered enterprise applications
+- Spring Boot microservices
+- React dashboards
+- Machine Learning for fraud detection
+- Clean architecture & REST APIs
 
 ---
 
-# Tech Stack
+# 🛠 Tech Stack
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
-</p>
-
-## Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,hibernate,postman"/>
-</p>
-
-## Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,js,html,css,mysql,git,github,postman,vscode,idea,maven"/>
 </p>
 
 ---
 
-# AI / ML Expertise
+# 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Highlights |
 |---|---|---|
-| Machine Learning | Advanced | Classification, feature engineering |
-| Deep Learning | Intermediate | CNN based image classification |
-| Java Backend | Advanced | Spring Boot, REST APIs |
-| Database Design | Advanced | MySQL, Hibernate ORM |
-| Frontend | Intermediate | React, HTML, CSS |
+| Machine Learning | ⭐⭐⭐⭐☆ | Classification, Feature Engineering |
+| Fraud Detection | ⭐⭐⭐⭐⭐ | Banking & Insurance |
+| Java Backend | ⭐⭐⭐⭐⭐ | Spring Boot, Hibernate |
+| Frontend | ⭐⭐⭐⭐☆ | React, HTML, CSS |
+| Databases | ⭐⭐⭐⭐⭐ | MySQL |
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
 <details>
-<summary><b>Digital Banking Fraud Detection System</b></summary>
+<summary><b>🚨 Fraud Detection and Transaction Simulation Engine for Digital Banking</b></summary>
 
-Professional fraud detection platform combining Spring Boot, React, MySQL and Machine Learning.
+Enterprise-ready platform for simulating banking transactions and detecting fraud using rule-based logic and machine learning.
 
-| Area | Details |
+| Category | Details |
 |---|---|
 | Stack | Java, Spring Boot, React, Python, MySQL |
-| Scale | Modular enterprise architecture |
-| Security | Rule engine + ML |
-| Impact | Fraud analytics dashboard |
-| Repository | Add repository link |
+| Features | Transaction Simulation, Dashboard, Analytics, REST APIs |
+| Security | Fraud Rules + ML |
+| Architecture | Modular Enterprise Design |
 
 </details>
 
 <details>
-<summary><b>Emotion Based Music Recommender</b></summary>
+<summary><b>🛡 ClaimWatchAI - Fraud Insurance System</b></summary>
 
-Detects facial emotion and recommends suitable music using machine learning.
+AI-driven insurance fraud detection platform with risk scoring, analytics and fraud prediction.
 
-</details>
-
-<details>
-<summary><b>Pneumonia Detection using CNN</b></summary>
-
-Medical image classification using convolutional neural networks.
-
-</details>
-
-<details>
-<summary><b>JavaScript Todo App</b></summary>
-
-Responsive CRUD application built using HTML, CSS and JavaScript.
-
-</details>
-
----
-
-# Experience
-
-### AI / Machine Learning Intern
-**FlyRank AI**
-
-- Built AI and ML solutions.
-- Worked with modern development workflows.
-- Collaborated remotely on engineering tasks.
-
-**Skills:** `Machine Learning` `Python` `Java` `Git`
-
----
-
-# Achievements
-
-| Recognition | Details |
+| Category | Details |
 |---|---|
-| AI Internship | FlyRank AI |
-| Full Stack Projects | Java + Spring Boot |
-| Machine Learning | Multiple academic projects |
+| Stack | Java, Spring Boot, Python, ML, MySQL |
+| Highlights | Claim Analysis, Risk Scoring, Dashboard |
+
+</details>
 
 ---
 
-# Certifications
+# 💼 Experience
 
-- AWS (Planned)
-- Oracle Java (Learning)
-- NPTEL
-- Cisco Networking
+### AI / Machine Learning Intern • FlyRank AI
 
----
-
-# Coding Profiles
-
-- GitHub: https://github.com/SHIVATHMIKA26
-- LinkedIn: https://www.linkedin.com/in/boddupally-shivathmika-40a3382b9/
+- Developed ML-focused solutions
+- Collaborated on AI engineering tasks
+- Worked with modern software development workflows
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHIVATHMIKA26&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVATHMIKA26&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHIVATHMIKA26&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVATHMIKA26&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVATHMIKA26&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVATHMIKA26&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SHIVATHMIKA26&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SHIVATHMIKA26&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVATHMIKA26&theme=tokyo-night"/>
@@ -182,49 +123,22 @@ Responsive CRUD application built using HTML, CSS and JavaScript.
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
-```text
-Configure GitHub Actions with Platane/snk to generate the contribution snake animation.
-```
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - Spring Boot
-  - System Design
-  - Advanced Machine Learning
-
-building:
-  - Banking Fraud Detection Platform
-  - Portfolio Projects
-
-exploring:
-  - Cloud Computing
-  - Microservices
-
-open_to:
-  - Internships
-  - Open Source
-```
+Create this automatically with GitHub Actions using:
+https://github.com/Platane/snk
 
 ---
 
-# Connect
+# 📫 Connect
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://www.linkedin.com/in/boddupally-shivathmika-40a3382b9/
-- 💻 GitHub: https://github.com/SHIVATHMIKA26
+- GitHub: https://github.com/SHIVATHMIKA26
+- LinkedIn: https://www.linkedin.com/in/boddupally-shivathmika-40a3382b9/
 
 ---
 
-> "Build software that solves real problems, and let the code speak for itself."
+> *"Engineering intelligent software that transforms ideas into impactful solutions."*
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=6A5ACD"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=6,12,20,24,30"/>
 </div>
